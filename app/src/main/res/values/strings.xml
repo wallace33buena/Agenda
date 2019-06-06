@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="evento">Evento</string>
+    <string name="data">Data</string>
+    <string name="horario">Horario</string>
+
+</resources>
